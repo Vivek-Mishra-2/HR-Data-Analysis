@@ -42,7 +42,7 @@ In the data analysis part I have analyzed the data and made some new measures as
    Headcount = countrows(employees)
    ```
    
-![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/0895dde4-9a26-4e34-96cb-013fde54f758)
+![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/c8b5abdf-56b1-49d8-a9e0-95e1018c93e8)
 
 
 2. Creating a measure to know the average salary from the overall salary column.
@@ -71,7 +71,6 @@ From the anaylsis of the data I have answered all the questions and also gained 
 ![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/0790efd2-4503-4e41-ac5f-875d6de9d4fd)
 
 
-
 4. Product Manager is the most high paying job and packaging associate which has the most numbeer of employees is the least paid job.
 
 ![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/0c11d0f1-76b0-47ea-9839-26c6bafc3003)
@@ -83,4 +82,24 @@ From the anaylsis of the data I have answered all the questions and also gained 
 
 6. Master's degree are the most paid followed by the diploma. The maximum number of employees have done bachelor's degree.
 
-    ![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/2e4c7eac-6cc9-468c-a6f7-14519c82faa0)
+![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/2e4c7eac-6cc9-468c-a6f7-14519c82faa0)
+
+7. Number of employees joining the company yearly.
+
+![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/42c063f6-ada9-43a3-88e8-71afc62df0a8)
+
+8. Distributing the jobs on the behalf on first letter of the employee names.
+
+![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/beaea11b-5473-435e-938c-c8b8600cc0f7)
+
+9. Average leave balance of employees and couting the employees who are taking the leaves on the basis of their job titles.
+
+![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/5d8983f0-252e-40a5-be08-2da5cfa7c1fc)
+
+
+
+Now, after doing the following analysis and extracting important insights, the final HR Data Dashboard is given below:
+
+   ![image](https://github.com/Vivek-Mishra-2/HR-Data-Analysis/assets/114797063/b0113162-5519-445c-95b2-016b05e5a484)
+
+
